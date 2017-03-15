@@ -30,7 +30,7 @@ Pre-requisites
 Screenshots
 -------------
 
-<img src="screenshots/companion-content-action.png" height="400" alt="Screenshot"/> <img src="screenshots/content-action" height="400" alt="Screenshot"/> <img src="screenshots/content-icon-menu" height="400" alt="Screenshot"/> 
+<img src="screenshots/companion-content-action.png" height="400" alt="Screenshot"/> <img src="screenshots/content-action.png" height="400" alt="Screenshot"/> <img src="screenshots/content-icon-menu.png" height="400" alt="Screenshot"/> 
 
 Getting Started
 ---------------
